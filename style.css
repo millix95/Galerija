@@ -55,7 +55,7 @@ p {
 @media screen and (min-width: 1170px) {
   .galerija-lista {
     gap: 20px 50px;
-    width: 100vw;
+    width: 95vw;
     height: 75vh;
     grid-template-columns: repeat(5, 1fr);
   }
